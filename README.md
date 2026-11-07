@@ -5,4 +5,3 @@ Furthermore, most of these algorithms are not my own work. I do not hold any cop
 
 Instructions for using each program are provided in the first few lines of code. I’m far from being a coding expert, but if you have any questions about the algorithms, I might be able to help.
 
-Translated with DeepL.com (free version)
